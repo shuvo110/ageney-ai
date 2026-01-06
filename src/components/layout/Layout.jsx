@@ -1,5 +1,6 @@
 import React from 'react'
-import Navber from '../Main/Navber'
+import Navber from '../main/Navber'
+
 
 function Layout() {
   return (
