@@ -2,7 +2,34 @@ import React from 'react'
 import { CiUser } from "react-icons/ci";
 import { TfiEmail } from "react-icons/tfi";
 import { FaLongArrowAltRight } from "react-icons/fa";
+import toast from 'react-hot-toast';
 function Reach() {
+    const onSubMit = async (event) => {
+        event.preventDefault();
+
+        const formData = new FormData(event.target);
+
+        formData.append("access_key", "b6e8cac9-8038-444a-a967-64ec0697d489");
+        try {
+            const response = await fetch("https://api.web3forms.com/submit", {
+                method: "POST",
+                body: formData
+            });
+
+            const data = await response.json();
+
+            if (data.success) {
+                toast.success('Thank you for your submission')
+                event.target.reset();
+            } else {
+                toast.error(data.message);
+
+            }
+        } catch (error) {
+            toast.error(error.message);
+        }
+
+    }
     return (
         <div>
             <div className='text-heder-box'>
@@ -10,7 +37,7 @@ function Reach() {
                 <p className='text-heder-Pera'>Ready to grow your brand? Let’s connect and build something exceptional together.</p>
             </div>
             <div className='max-w-4xl m-auto p-10'>
-                <form >
+                <form onSubmit={onSubMit}>
                     <div className='lg:flex space-y-7 md:space-y-0'>
                         <div className="w-full max-w-sm mx-auto">
                             <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-400">
@@ -29,7 +56,7 @@ function Reach() {
                             </div>
                         </div>
                         <div className="w-full max-w-sm mx-auto">
-                            <label htmlFor="emailId" className="block mb-2 text-sm font-medium text-gray-400">
+                            <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-400">
                                 Your Name
                             </label>
                             <div className="relative">
@@ -37,9 +64,9 @@ function Reach() {
                                 {/* <CiUser className="absolute top-1/2 left-3 -translate-y-1/2" /> */}
                                 <input
                                     type="email"
-                                    name="emailId"
+                                    name="email"
                                     placeholder="Enter your email"
-                                    className="input input-accent pl-10 w-full"required
+                                    className="input input-accent pl-10 w-full" required
                                 />
                             </div>
                         </div>

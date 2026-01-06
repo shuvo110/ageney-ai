@@ -1,11 +1,13 @@
 import React from 'react'
 import Navber from '../main/Navber'
+import { Toaster } from 'react-hot-toast'
 
 
 function Layout() {
   return (
     <div>
-        <Navber/>
+      <Toaster /> 
+      <Navber />
     </div>
   )
 }

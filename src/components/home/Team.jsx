@@ -8,7 +8,7 @@ function Team() {
     autoplay: true,
     autoplaySpeed: 2000,
     slidesToShow: 4,
-    slidesToScroll: 2,
+    slidesToScroll: 1,
     responsive: [
       {
         breakpoint: 1280, // laptop
