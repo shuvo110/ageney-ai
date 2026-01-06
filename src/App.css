@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+@theme {
+    --font-manrope: "Manrope", sans-serif;
+}
+
+@utility text-heder-box {
+    @apply text-center max-w-lg m-auto my-8 py-8;
+}
+
+@utility text-heder-title {
+    @apply font-manrope my-4 font-bold text-lg md:text-2xl p-2;
+}
+
+@utility text-heder-Pera {
+    @apply text-lg text-gray-400 px-3;
+}
+
+@plugin "daisyui";
+html{
+    scroll-behavior: smooth;
+}

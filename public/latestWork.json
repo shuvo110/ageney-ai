@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Modern E-Commerce Platform",
+    "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+    "description": "A scalable e-commerce platform featuring product listings, secure checkout, and responsive design."
+  },
+  {
+    "id": 2,
+    "title": "Creative Portfolio Website",
+    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "description": "A personal portfolio website built to showcase projects, skills, and professional experience."
+  },
+  {
+    "id": 3,
+    "title": "Restaurant Management System",
+    "img": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5",
+    "description": "An online restaurant system with menu management, booking, and customer engagement features."
+  },
+  {
+    "id": 4,
+    "title": "Task Management Dashboard",
+    "img": "https://images.unsplash.com/photo-1557804506-669a67965ba0",
+    "description": "A productivity dashboard for managing daily tasks, deadlines, and team collaboration."
+  },
+  {
+    "id": 5,
+    "title": "Online Learning Platform",
+    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "description": "A modern e-learning platform with video courses, quizzes, and progress tracking."
+  },
+  {
+    "id": 6,
+    "title": "Healthcare Appointment System",
+    "img": "https://www.bdtask.com/blog/uploads/top-10-hospital-appointment-scheduling-software.jpg",
+    "description": "A healthcare system designed to manage appointments, doctors, and patient records."
+  },
+  {
+    "id": 7,
+    "title": "Real Estate Listing Website",
+    "img": "https://images.unsplash.com/photo-1560518883-ce09059eeffa",
+    "description": "A property listing website with advanced search and modern real estate UI."
+  },
+  {
+    "id": 8,
+    "title": "Social Media Analytics Tool",
+    "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "description": "A data-driven dashboard to analyze social media growth and user engagement."
+  },
+  {
+    "id": 9,
+    "title": "Job Portal Application",
+    "img": "https://images.unsplash.com/photo-1507679799987-c73779587ccf",
+    "description": "A job portal connecting recruiters and candidates through a clean application process."
+  },
+  {
+    "id": 10,
+    "title": "Travel Booking Website",
+    "img": "https://images.unsplash.com/photo-1502920514313-52581002a659",
+    "description": "A travel booking platform for tours, hotels, and trip planning."
+  },
+  {
+    "id": 11,
+    "title": "Personal Finance Tracker",
+    "img": "https://images.unsplash.com/photo-1554224154-22dec7ec8818",
+    "description": "A finance tracking app to manage income, expenses, and financial goals."
+  },
+  {
+    "id": 12,
+    "title": "Event Management Platform",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1IRceTu0s1RjtU9FpHcYxPKk2VSvWUq5_OQ&s",
+    "description": "A digital event platform for managing registrations and schedules."
+  },
+  {
+    "id": 13,
+    "title": "SaaS Product Landing Page",
+    "img": "https://images.unsplash.com/photo-1556155092-490a1ba16284",
+    "description": "A high-converting SaaS landing page with clean UI and optimized performance."
+  },
+  {
+    "id": 14,
+    "title": "News & Blog Website",
+    "img": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+    "description": "A modern blog and news website with category-based content structure."
+  },
+  {
+    "id": 15,
+    "title": "Inventory Management System",
+    "img": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d",
+    "description": "A system to manage inventory, suppliers, and stock levels efficiently."
+  },
+  {
+    "id": 16,
+    "title": "Fitness Tracking Application",
+    "img": "https://cdn.dribbble.com/userupload/7274924/file/original-62f4f2a60e97f22afbfb3bba60e9ebc9.jpg?resize=1600x1200",
+    "description": "A fitness tracking app for workouts, routines, and progress monitoring."
+  },
+  {
+    "id": 17,
+    "title": "Online Voting System",
+    "img": "https://images.unsplash.com/photo-1589883661923-6476cb0ae9f2",
+    "description": "A secure online voting system with authentication and result transparency."
+  },
+  {
+    "id": 18,
+    "title": "Customer Support Dashboard",
+    "img": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980",
+    "description": "A dashboard for handling customer support tickets and live chat."
+  },
+  {
+    "id": 19,
+    "title": "Weather Forecast Application",
+    "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "description": "A weather app providing real-time forecasts and climate insights."
+  },
+  {
+    "id": 20,
+    "title": "Digital Agency Website",
+    "img": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    "description": "A creative agency website showcasing services, projects, and client success stories."
+  }
+]

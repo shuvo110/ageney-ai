@@ -1,0 +1,32 @@
+[
+    {   
+        "id" : "1",
+        "title": "coinebase",
+        "img": "https://i.pinimg.com/1200x/c6/1f/4d/c61f4d339dd5bac0822e440d94cada4b.jpg"
+    },
+    {
+         "id" : "2",
+        "title": "Google",
+        "img": "https://i.pinimg.com/1200x/5f/33/c7/5f33c741560bb71ebedb831267603c1b.jpg"
+    },
+    {
+         "id" : "3",
+        "title": "Rakuten",
+        "img": "https://i.pinimg.com/1200x/27/a7/57/27a7573c6a88f6619eab7324ae862133.jpg"
+    },
+    {
+         "id" : "4",
+        "title": "Microsoft",
+        "img": "https://i.pinimg.com/736x/38/59/42/385942da8eed411be076a36c9b167d05.jpg"
+    },
+    {
+         "id" : "5",
+        "title": "Airbnb",
+        "img": "https://i.pinimg.com/736x/5b/29/b4/5b29b428b87002e0804e77f758bd0100.jpg"
+    },
+    {
+         "id" : "6",
+        "title": "Zoom",
+        "img": "https://i.pinimg.com/1200x/1e/27/b3/1e27b3014cfd07f3d188417995afb7af.jpg"
+    }
+]

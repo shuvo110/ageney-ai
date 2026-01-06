@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Liam Anderson",
+    "position": "Frontend Developer",
+    "img": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "name": "Noah Williams",
+    "position": "Backend Developer",
+    "img": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "name": "Oliver Brown",
+    "position": "Full Stack Developer",
+    "img": "https://randomuser.me/api/portraits/men/13.jpg"
+  },
+  {
+    "name": "Elijah Jones",
+    "position": "UI/UX Designer",
+    "img": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "name": "James Garcia",
+    "position": "React Developer",
+    "img": "https://randomuser.me/api/portraits/men/15.jpg"
+  },
+  {
+    "name": "Benjamin Miller",
+    "position": "Node.js Developer",
+    "img": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "name": "Lucas Davis",
+    "position": "DevOps Engineer",
+    "img": "https://randomuser.me/api/portraits/men/17.jpg"
+  },
+  {
+    "name": "Henry Rodriguez",
+    "position": "Software Engineer",
+    "img": "https://randomuser.me/api/portraits/men/18.jpg"
+  },
+  {
+    "name": "Alexander Martinez",
+    "position": "Tech Lead",
+    "img": "https://randomuser.me/api/portraits/men/19.jpg"
+  },
+  {
+    "name": "Daniel Hernandez",
+    "position": "Product Manager",
+    "img": "https://randomuser.me/api/portraits/men/20.jpg"
+  },
+
+  {
+    "name": "Sophia Wilson",
+    "position": "UI Designer",
+    "img": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "name": "Olivia Moore",
+    "position": "Frontend Engineer",
+    "img": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "name": "Emma Taylor",
+    "position": "UX Researcher",
+    "img": "https://randomuser.me/api/portraits/women/13.jpg"
+  },
+  {
+    "name": "Ava Anderson",
+    "position": "React Developer",
+    "img": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "name": "Isabella Thomas",
+    "position": "Web Designer",
+    "img": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "name": "Mia Jackson",
+    "position": "Frontend Developer",
+    "img": "https://randomuser.me/api/portraits/women/16.jpg"
+  },
+  {
+    "name": "Charlotte White",
+    "position": "Project Coordinator",
+    "img": "https://randomuser.me/api/portraits/women/17.jpg"
+  },
+  {
+    "name": "Amelia Harris",
+    "position": "Content Strategist",
+    "img": "https://randomuser.me/api/portraits/women/18.jpg"
+  },
+  {
+    "name": "Harper Martin",
+    "position": "QA Engineer",
+    "img": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "name": "Evelyn Thompson",
+    "position": "Business Analyst",
+    "img": "https://randomuser.me/api/portraits/women/20.jpg"
+  },
+  {
+    "name": "Harper Martin",
+    "position": "QA Engineer",
+    "img": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "name": "Evelyn Thompson",
+    "position": "Business Analyst",
+    "img": "https://randomuser.me/api/portraits/women/20.jpg"
+  },
+
+  {
+    "name": "William Scott",
+    "position": "Mobile App Developer",
+    "img": "https://randomuser.me/api/portraits/men/21.jpg"
+  },
+  {
+    "name": "Michael Green",
+    "position": "System Architect",
+    "img": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "name": "Ethan Adams",
+    "position": "Cloud Engineer",
+    "img": "https://randomuser.me/api/portraits/men/23.jpg"
+  },
+  {
+    "name": "Jacob Baker",
+    "position": "Security Engineer",
+    "img": "https://randomuser.me/api/portraits/men/24.jpg"
+  },
+  {
+    "name": "Logan Nelson",
+    "position": "API Developer",
+    "img": "https://randomuser.me/api/portraits/men/25.jpg"
+  },
+  {
+    "name": "Emily Carter",
+    "position": "HR Manager",
+    "img": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "name": "Abigail Mitchell",
+    "position": "Operations Manager",
+    "img": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+    "name": "Ella Perez",
+    "position": "Marketing Specialist",
+    "img": "https://randomuser.me/api/portraits/women/23.jpg"
+  },
+  {
+    "name": "Scarlett Roberts",
+    "position": "Brand Strategist",
+    "img": "https://randomuser.me/api/portraits/women/24.jpg"
+  },
+  {
+    "name": "Grace Turner",
+    "position": "Customer Success Manager",
+    "img": "https://randomuser.me/api/portraits/women/25.jpg"
+  }
+]
