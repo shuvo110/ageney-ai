@@ -22,25 +22,29 @@ function Team() {
                 breakpoint: 1024,
                 settings: {
                     slidesToShow: 2,
-                    slidesPerRow: 2,
-                    infinite: true,
-                }
+                    slidesToScroll: 1,
+                    centerMode: false,
+                },
             },
             {
-                breakpoint: 600,
+                breakpoint: 768,
                 settings: {
-                    slidesToShow: 2,
-                    initialSlide: 2
-                }
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    centerMode: true,
+                    centerPadding: "40px",
+                },
             },
             {
                 breakpoint: 480,
                 settings: {
                     slidesToShow: 1,
-                    slidesPerRow: 1
-                }
-            }
-        ]
+                    slidesToScroll: 1,
+                    centerMode: true,
+                    centerPadding: "20px",
+                },
+            },
+        ],
     };
     return (
         <div className='p-10'>
