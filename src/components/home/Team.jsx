@@ -36,7 +36,7 @@ function Team() {
                 },
             },
             {
-                breakpoint: 480,
+                breakpoint: 300,
                 settings: {
                     slidesToShow: 1,
                     slidesToScroll: 1,
@@ -44,6 +44,7 @@ function Team() {
                     centerPadding: "20px",
                 },
             },
+       
         ],
     };
     return (
